@@ -1,0 +1,24 @@
+.card {
+  align-self: center;
+}
+
+.inner-container {
+  justify-content: space-between;
+  display: flex;
+  max-width: 900px;
+  flex-direction: column;
+}
+
+.outer-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+body {
+  background-color: #A6CDC6;
+}
+
+.navbar {
+  background-color: #F9F6E6;
+}
